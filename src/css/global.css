@@ -1,0 +1,6 @@
+@import url(./reset.css);
+
+.full-screen, svg {
+  width: 100svw;
+  height: 100svh;
+}

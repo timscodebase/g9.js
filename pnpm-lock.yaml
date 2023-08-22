@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  g9:
+    specifier: ^1.0.16
+    version: 1.0.16
+
+packages:
+
+  /g9@1.0.16:
+    resolution: {integrity: sha512-x2Mmjbz0Z7oIfvtcRjNz9pfetvRm+kCgFlF1ZPl0Wer+A8OaaX2Npa9f5Jsjqt+79Tdbq5geP0uwq7J1SqZlJg==}
+    dev: false
